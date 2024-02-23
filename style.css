@@ -1,0 +1,50 @@
+#container{
+    width: 40%;
+    border: solid 3px;
+    border-color: black;
+    margin: 0 auto;
+
+}
+.input{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 14px 30px;
+
+}
+button{
+    background-color: black;
+    padding: 14px 200px;
+    color:white
+
+}
+
+#container-x{
+    width: 40%;
+    border: solid 3px;
+    border-color: black;
+    margin: 0 auto;
+}
+.input{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 14px 30px;
+}
+#container-y{
+    width: 40%;
+    border: solid 3px;
+    border-color: black;
+    margin: 0 auto;
+}
+.input{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 14px 30px;
+}
+th,td{
+    border: solid 1px;
+    padding: 14px 30px;
+
+}
